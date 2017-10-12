@@ -1,0 +1,57 @@
+{
+  "name": "js-dev-environment",
+  "version": "1.0.0",
+  "description": "A JS Development Environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anapac/js-dev-environment.git"
+  },
+  "keywords": [
+    "javascript",
+    "dev",
+    "development",
+    "env",
+    "environment",
+    "setup"
+  ],
+  "author": "anapac",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anapac/js-dev-environment/issues"
+  },
+  "homepage": "https://github.com/anapac/js-dev-environment#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-latest": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "chai": "^4.1.2",
+    "chalk": "^2.1.0",
+    "cheerio": "^1.0.0-rc.2",
+    "cross-env": "^5.0.5",
+    "eslint": "^4.8.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-watch": "^3.1.2",
+    "express": "^4.16.2",
+    "html-webpack-plugin": "^2.30.1",
+    "jsdom": "^11.3.0",
+    "localtunnel": "^1.8.3",
+    "mocha": "^4.0.1",
+    "nock": "^9.0.22",
+    "npm-run-all": "^4.1.1",
+    "nsp": "^2.8.1",
+    "numeral": "^2.0.6",
+    "open": "0.0.5",
+    "rimraf": "^2.6.2",
+    "webpack": "^3.7.1",
+    "webpack-dev-middleware": "^1.12.0",
+    "webpack-hot-middleware": "^2.19.1",
+    "webpack-md5-hash": "0.0.5"
+  }
+}
