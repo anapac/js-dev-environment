@@ -1,3 +1,3 @@
 # js-dev-environment
 
-[![Build Status: Linux](https://travis-ci.org/gruntjs/grunt.svg?branch=master)](https://travis-ci.org/gruntjs/grunt)
+Travis CI [![Build Status: Linux](https://travis-ci.org/gruntjs/grunt.svg?branch=master)](https://travis-ci.org/gruntjs/grunt)
