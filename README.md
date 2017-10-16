@@ -1,3 +1,3 @@
 # js-dev-environment
 
-https://ci.appveyor.com/api/projects/status/github/anapac/js-dev-environment?branch=master&svg=true
+[![Build Status: Linux](https://travis-ci.org/gruntjs/grunt.svg?branch=master)](https://travis-ci.org/gruntjs/grunt)
